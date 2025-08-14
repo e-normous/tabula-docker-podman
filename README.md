@@ -1,5 +1,5 @@
 # tabula-docker-podman
-Containerfile and Dockerfile for starting a tabula container, accessible through a web browser. You either use it with podman or docker.
+Containerfile and Dockerfile for starting a tabula container, accessible through a web browser. You either use it with podman or docker (see [here](https://github.com/asnelling/tabula-docker/tree/master) for inspiration).
 
 **Manual when using podman on a raspberry pi 5**
 
